@@ -1,7 +1,9 @@
 # Hello!👋 I'm Amelia!
 
 I'm a student at Sacred Heart High School🏫. I'm currently taking Computer Studies 💻 (ICS2O) and learning how to code 🧑‍💻. 
-![Amelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+<br>
+<br>
+![Amelia's GitHub stats](https://github-readme-stats.vercel.app/api?username=amelia-mohr&show_icons=true&theme=tokyonight)
 
 ## ✍ My Programming Skills: <br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br>
